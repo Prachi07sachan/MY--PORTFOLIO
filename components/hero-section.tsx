@@ -102,7 +102,7 @@ export default function HeroSection() {
 
             {/* Download Resume */}
             <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
-              <a href="/resume.pdf" download>
+              <a href="/MAIN_RESUME.pdf" download>
                 <Button
                   size="lg"
                   className="glass-button glow-effect group font-medium px-8 py-3"

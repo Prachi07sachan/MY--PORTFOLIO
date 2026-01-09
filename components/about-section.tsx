@@ -57,7 +57,7 @@ export default function AboutMe() {
                 <span className="p-2 bg-muted rounded-lg text-center">Express.js</span>
                 <span className="p-2 bg-muted rounded-lg text-center">MongoDB</span>
                 <span className="p-2 bg-muted rounded-lg text-center">C++</span>
-                <span className="p-2 bg-muted rounded-lg text-center">Git & Docker</span>
+                <span className="p-2 bg-muted rounded-lg text-center">Git & GitHub</span>
               </div>
             </div>
           </div>
