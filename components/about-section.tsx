@@ -17,7 +17,7 @@ export default function AboutMe() {
           {/* ✅ Profile Picture */}
           <div className="flex justify-center">
             <Image
-              src="/mypic.jpg"   // 🔹 Your uploaded image
+              src="/my pic.jpeg"   // 🔹 Your uploaded image
               alt="Prachi Sachan"
               width={300}
               height={300}
